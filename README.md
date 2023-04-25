@@ -1,5 +1,3 @@
 # LowesWeatherApp
 
-using this as a guide for rebuilding this:
-
-https://github.com/dunow0033/LowesWeatherAppRebuild
+neat little weather app built with data binding
