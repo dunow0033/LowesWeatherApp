@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/other/Weather/Lowes/LowesWeatherApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/other/Weather/Lowes/LowesWeatherApp/app/src/main/res/layout/fragment_hourly_weather.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/other/Weather/Lowes/LowesWeatherApp/app/src/main/res/layout/fragment_lookup.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/other/Weather/Lowes/LowesWeatherApp/app/src/main/res/layout/fragment_weather_info.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/other/Weather/Lowes/LowesWeatherApp/app/src/main/res/layout/weather_item.xml" value="0.25" />
         <entry key="..\:/Users/bedon/AndroidStudioProjects/LowesWeatherApp/app/src/main/res/drawable/ic_clear.xml" value="0.27870370370370373" />
         <entry key="..\:/Users/bedon/AndroidStudioProjects/LowesWeatherApp/app/src/main/res/drawable/ic_search.xml" value="0.28489583333333335" />
         <entry key="..\:/Users/bedon/AndroidStudioProjects/LowesWeatherApp/app/src/main/res/drawable/ic_white_back_arrow.xml" value="0.28489583333333335" />
