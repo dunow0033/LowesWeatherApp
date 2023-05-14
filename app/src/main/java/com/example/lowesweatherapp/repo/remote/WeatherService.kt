@@ -10,7 +10,7 @@ interface WeatherService {
     @GET("forecast")
     suspend fun getWeatherForCityResponse(
         @Query("q") city: String,
-        @Query("appid") appid: String = "65d00499677e59496ca2f318eb68c049",
+        @Query("appid") appid: String = "88c143151374acf727c65ea659652b0d",
         @Query("units") units: String = "imperial"
     ): Response<WeatherResponse>
 }
